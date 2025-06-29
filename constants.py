@@ -1,13 +1,9 @@
 
 import os
 from dotenv import load_dotenv
-import platform
 
 # Charger les variables d'environnement
 loaded = load_dotenv()
-
-
-
 
 # Récupérer les clés API de manière sécurisée
 QDRANT_API = os.getenv('QDRANT_API')
@@ -19,5 +15,4 @@ QDRANT_COLLECTION = os.getenv('QDRANT_COLLECTION')
 
 # Modèles utilisés
 LLM_NAME="llama-3.3-70b-versatile"
-
 MODEL_EMBEDDING="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"

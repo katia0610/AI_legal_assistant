@@ -93,6 +93,6 @@ AI_legal_assistant/
 
 ## 📝 **Author**
 
-* Katia Bair
+Katia Bair
 
 ---
