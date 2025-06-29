@@ -23,7 +23,7 @@ This assistant helps **students, legal professionals, and citizens** quickly fin
 ## ⚠️ **Current Status**
 
 This is a **proof of concept (PoC)**.
-Currently, only part of the penal code has been integrated into the database. Adding the complete set of Algerian laws is planned for future development to make it a comprehensive legal assistant.
+Currently, only the penal and civil code has been integrated into the database. Adding the complete set of Algerian laws is planned for future development to make it a comprehensive legal assistant.
 
 ---
 
