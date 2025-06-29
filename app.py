@@ -5,7 +5,6 @@ from qdrant_client import QdrantClient
 from langchain_community.vectorstores import Qdrant
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.memory import ConversationBufferMemory
-from prompts import prompt
 from constants import *
 
 # 🎯 Function to detect Arabic
